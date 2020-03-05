@@ -1,4 +1,1 @@
-# motd
-
-TODO: Enter the cookbook description here.
-
+Message of the Day
